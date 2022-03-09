@@ -34,6 +34,11 @@
       "comment": "Está passando na sua rua o carro do ovo!",
       "userId": 2,
       "id": 1
+    },
+    {
+      "comment": "O dia tá lindo, crima ensorarado",
+      "userId": 1,
+      "id": 2
     }
   ]
 }
