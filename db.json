@@ -6,6 +6,21 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "gugu@mail.com",
+      "password": "$2a$10$C4hlGxsNDjTzTDIgioCLxeZZYJiL7lc7nAegWWJ5IE5IXBqaF7Ele",
+      "name": "Gugu",
+      "age": 15,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "type": "Dog",
+      "name": "Chuchu",
+      "userId": "2",
+      "id": 1
     }
   ]
 }
